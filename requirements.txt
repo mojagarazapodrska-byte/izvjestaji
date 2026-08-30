@@ -6,3 +6,4 @@ numpy
 fpdf2
 openpyxl
 xlrd
+XlsxWriter
